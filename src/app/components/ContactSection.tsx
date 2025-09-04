@@ -12,7 +12,7 @@ export default function ContactSection() {
       {/* Tambahan IG & WA */}
       <div className="social-links">
         <a
-          href="https://instagram.com/username"
+          href="https://www.instagram.com/kkiellrh?igsh=MWQzM3Z4MmN6azZsOA=="
           target="_blank"
           rel="noopener noreferrer"
           className="social-btn instagram"
@@ -20,7 +20,7 @@ export default function ContactSection() {
           📷 Instagram
         </a>
         <a
-          href="https://wa.me/6281234567890"
+          href="https://wa.me/6289509327150"
           target="_blank"
           rel="noopener noreferrer"
           className="social-btn whatsapp"
@@ -31,3 +31,4 @@ export default function ContactSection() {
     </section>
   );
 }
+
